@@ -1,4 +1,4 @@
-use avaliacao_22b;
+use avaliacao_22a;
  -- 1.insert into Livros (titulo, autor, ano_publicacao, disponivel, categoria, isbn, editora, quantidade_paginas, idioma)
  values ("as cronicas de narnia", "C.S Lewis", 1950, true, "fantasia", "isbn_978-0064471190", "hapercollins", 768, "ingles"); 
  select * from Livros /*
